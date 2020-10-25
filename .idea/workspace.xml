@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="abe1b4ad-13b8-41c3-af1f-7afd0aca3597" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="ccc2e5b1-b271-405a-9030-8b798fb6e21e" />
+  <component name="ProjectId" id="1iURq4RjH7Bl3GaONoKo4yzTnLF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/flix/authentication" />
+      <recent name="$PROJECT_DIR$/flix" />
+      <recent name="$PROJECT_DIR$/flix/static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/flix/static" />
+      <recent name="$PROJECT_DIR$/flix/BKP" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in unit">
+    <configuration name="CS235" type="PythonConfigurationType" factoryName="Python">
+      <module name="CS235" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/covid/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask (wsgi.py)" type="Python.FlaskServer" temporary="true" nameIsGenerated="true">
+      <module name="CS235" />
+      <option name="target" value="$PROJECT_DIR$/wsgi.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="CS235" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../CS235Flix-A2_CS235Flix/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_domain_model.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="CS235" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../CS235Flix-A2_CS235Flix/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/unit/test_domain_model.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_memory_repository.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="CS235" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../CS235Flix-A2_CS235Flix/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/unit/test_memory_repository.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_services.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="CS235" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../CS235Flix-A2_CS235Flix/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/unit/test_services.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_web_app.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="CS235" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../CS235Flix-A2_CS235Flix/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/e2e/test_web_app.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in unit" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="CS235" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../CS235Flix-A2_CS235Flix/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/unit&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flask server.Flask (wsgi.py)" />
+      <item itemvalue="Python.CS235" />
+      <item itemvalue="Python tests.pytest in unit" />
+      <item itemvalue="Python tests.pytest in test_web_app.py" />
+      <item itemvalue="Python tests.pytest in test_domain_model.py" />
+      <item itemvalue="Python tests.pytest in test_services.py" />
+      <item itemvalue="Python tests.pytest in test_memory_repository.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in test_memory_repository.py" />
+        <item itemvalue="Python tests.pytest in test_web_app.py" />
+        <item itemvalue="Flask server.Flask (wsgi.py)" />
+        <item itemvalue="Python tests.pytest in test_services.py" />
+        <item itemvalue="Python tests.pytest in test_domain_model.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abe1b4ad-13b8-41c3-af1f-7afd0aca3597" name="Default Changelist" comment="" />
+      <created>1601960373470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601960373470</updated>
+      <workItem from="1601960374915" duration="3688000" />
+      <workItem from="1601978249712" duration="598000" />
+      <workItem from="1602044609841" duration="1595000" />
+      <workItem from="1602050516564" duration="1805000" />
+      <workItem from="1602112146868" duration="663000" />
+      <workItem from="1602115139822" duration="3398000" />
+      <workItem from="1602208280564" duration="10000" />
+      <workItem from="1602289305644" duration="1325000" />
+      <workItem from="1602626356762" duration="1682000" />
+      <workItem from="1602639173618" duration="608000" />
+      <workItem from="1602641950747" duration="667000" />
+      <workItem from="1602807104011" duration="597000" />
+      <workItem from="1602890910171" duration="1725000" />
+      <workItem from="1602976035547" duration="740000" />
+      <workItem from="1603081898381" duration="3402000" />
+      <workItem from="1603144894154" duration="4016000" />
+      <workItem from="1603150409199" duration="712000" />
+      <workItem from="1603173527301" duration="4718000" />
+      <workItem from="1603226385495" duration="6736000" />
+      <workItem from="1603245212106" duration="2102000" />
+      <workItem from="1603248481253" duration="4791000" />
+      <workItem from="1603265998166" duration="175000" />
+      <workItem from="1603340249637" duration="1743000" />
+      <workItem from="1603358191983" duration="2398000" />
+      <workItem from="1603406359819" duration="6662000" />
+      <workItem from="1603421623546" duration="5942000" />
+      <workItem from="1603428111862" duration="4581000" />
+      <workItem from="1603490108211" duration="21757000" />
+      <workItem from="1603580943163" duration="30510000" />
+      <workItem from="1603612371395" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="78" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603501245046">
+      <screen x="0" y="23" width="1440" height="790" />
+    </state>
+    <state x="184" y="78" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.786@0.23.1440.786" timestamp="1603498984784" />
+    <state x="184" y="78" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.790@0.23.1440.790" timestamp="1603501245046" />
+    <state x="100" y="124" width="1240" height="595" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1603517528973">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="100" y="123" width="1240" height="586" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.786@0.23.1440.786" timestamp="1603499185969" />
+    <state x="100" y="124" width="1240" height="595" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.797@0.23.1440.797" timestamp="1603517528973" />
+    <state width="1398" height="242" key="GridCell.Tab.0.bottom" timestamp="1603612261729">
+      <screen x="0" y="23" width="1440" height="790" />
+    </state>
+    <state width="1398" height="218" key="GridCell.Tab.0.bottom/0.23.1440.786@0.23.1440.786" timestamp="1603583215209" />
+    <state width="1398" height="242" key="GridCell.Tab.0.bottom/0.23.1440.790@0.23.1440.790" timestamp="1603612261729" />
+    <state width="1398" height="242" key="GridCell.Tab.0.bottom/0.23.1440.793@0.23.1440.793" timestamp="1603611268704" />
+    <state width="1398" height="168" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1603608491259" />
+    <state width="1398" height="218" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1603609203620" />
+    <state width="1398" height="170" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1602925965974" />
+    <state width="1398" height="242" key="GridCell.Tab.0.center" timestamp="1603612261728">
+      <screen x="0" y="23" width="1440" height="790" />
+    </state>
+    <state width="1398" height="218" key="GridCell.Tab.0.center/0.23.1440.786@0.23.1440.786" timestamp="1603583215208" />
+    <state width="1398" height="242" key="GridCell.Tab.0.center/0.23.1440.790@0.23.1440.790" timestamp="1603612261728" />
+    <state width="1398" height="242" key="GridCell.Tab.0.center/0.23.1440.793@0.23.1440.793" timestamp="1603611268703" />
+    <state width="1398" height="168" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1603608491258" />
+    <state width="1398" height="218" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1603609203619" />
+    <state width="1398" height="170" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1602925965974" />
+    <state width="1398" height="242" key="GridCell.Tab.0.left" timestamp="1603612261728">
+      <screen x="0" y="23" width="1440" height="790" />
+    </state>
+    <state width="1398" height="218" key="GridCell.Tab.0.left/0.23.1440.786@0.23.1440.786" timestamp="1603583215208" />
+    <state width="1398" height="242" key="GridCell.Tab.0.left/0.23.1440.790@0.23.1440.790" timestamp="1603612261728" />
+    <state width="1398" height="242" key="GridCell.Tab.0.left/0.23.1440.793@0.23.1440.793" timestamp="1603611268703" />
+    <state width="1398" height="168" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1603608491258" />
+    <state width="1398" height="218" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1603609203619" />
+    <state width="1398" height="170" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1602925965974" />
+    <state width="1398" height="242" key="GridCell.Tab.0.right" timestamp="1603612261729">
+      <screen x="0" y="23" width="1440" height="790" />
+    </state>
+    <state width="1398" height="218" key="GridCell.Tab.0.right/0.23.1440.786@0.23.1440.786" timestamp="1603583215209" />
+    <state width="1398" height="242" key="GridCell.Tab.0.right/0.23.1440.790@0.23.1440.790" timestamp="1603612261729" />
+    <state width="1398" height="242" key="GridCell.Tab.0.right/0.23.1440.793@0.23.1440.793" timestamp="1603611268704" />
+    <state width="1398" height="168" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1603608491259" />
+    <state width="1398" height="218" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1603609203620" />
+    <state width="1398" height="170" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1602925965974" />
+    <state width="1398" height="249" key="GridCell.Tab.1.bottom" timestamp="1603529122361">
+      <screen x="0" y="23" width="1440" height="790" />
+    </state>
+    <state width="1398" height="249" key="GridCell.Tab.1.bottom/0.23.1440.790@0.23.1440.790" timestamp="1603529122361" />
+    <state width="1398" height="249" key="GridCell.Tab.1.bottom/0.23.1440.793@0.23.1440.793" timestamp="1603527830224" />
+    <state width="1398" height="249" key="GridCell.Tab.1.center" timestamp="1603529122360">
+      <screen x="0" y="23" width="1440" height="790" />
+    </state>
+    <state width="1398" height="249" key="GridCell.Tab.1.center/0.23.1440.790@0.23.1440.790" timestamp="1603529122360" />
+    <state width="1398" height="249" key="GridCell.Tab.1.center/0.23.1440.793@0.23.1440.793" timestamp="1603527830223" />
+    <state width="1398" height="249" key="GridCell.Tab.1.left" timestamp="1603529122360">
+      <screen x="0" y="23" width="1440" height="790" />
+    </state>
+    <state width="1398" height="249" key="GridCell.Tab.1.left/0.23.1440.790@0.23.1440.790" timestamp="1603529122360" />
+    <state width="1398" height="249" key="GridCell.Tab.1.left/0.23.1440.793@0.23.1440.793" timestamp="1603527830222" />
+    <state width="1398" height="249" key="GridCell.Tab.1.right" timestamp="1603529122360">
+      <screen x="0" y="23" width="1440" height="790" />
+    </state>
+    <state width="1398" height="249" key="GridCell.Tab.1.right/0.23.1440.790@0.23.1440.790" timestamp="1603529122360" />
+    <state width="1398" height="249" key="GridCell.Tab.1.right/0.23.1440.793@0.23.1440.793" timestamp="1603527830223" />
+    <state x="100" y="123" width="1240" height="586" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1603429785769">
+      <screen x="0" y="23" width="1440" height="790" />
+    </state>
+    <state x="100" y="123" width="1240" height="586" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1440.790@0.23.1440.790" timestamp="1603429785769" />
+    <state x="100" y="123" width="1240" height="586" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1440.793@0.23.1440.793" timestamp="1603180479397" />
+    <state x="100" y="123" width="1240" height="586" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603595644807">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state x="100" y="122" width="1240" height="582" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.786@0.23.1440.786" timestamp="1603236638029" />
+    <state x="100" y="123" width="1240" height="584" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.790@0.23.1440.790" timestamp="1603420712310" />
+    <state x="100" y="123" width="1240" height="586" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.793@0.23.1440.793" timestamp="1603595644807" />
+    <state x="100" y="124" width="1240" height="592" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.800@0.23.1440.800" timestamp="1603248995246" />
+    <state x="385" y="143" width="670" height="673" key="search.everywhere.popup" timestamp="1603597519946">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state x="385" y="143" width="670" height="673" key="search.everywhere.popup/0.23.1440.793@0.23.1440.793" timestamp="1603597519946" />
+    <state x="385" y="144" width="670" height="676" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1603518061183" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CS235_FLIX_A2$pytest_in_test_services_py.coverage" NAME="pytest in test_services.py Coverage Results" MODIFIED="1603609453424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/CS235_FLIX_A2$pytest_for_test_services_test_cannot_get_movie_with_non_existent_id.coverage" NAME="pytest for test_services.test_cannot_get_movie_with_non_existent_id Coverage Results" MODIFIED="1603516978457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/CS235_FLIX_A2$pytest_in_test_web_app_py.coverage" NAME="pytest in test_web_app.py Coverage Results" MODIFIED="1603611468536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/CS235$Flask__wsgi_py_.coverage" NAME="Flask (wsgi.py) Coverage Results" MODIFIED="1603341368119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CS235_FLIX_A2$Flask__wsgi_py_.coverage" NAME="Flask (wsgi.py) Coverage Results" MODIFIED="1603610744032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CS235_FLIX_A2$pytest_in_test_memory_repository_py.coverage" NAME="pytest in test_memory_repository.py Coverage Results" MODIFIED="1603612126379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/CS235$CS235.coverage" NAME="CS235 Coverage Results" MODIFIED="1601960395251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/CS235_FLIX_A2$pytest_for_test_web_app_test_login.coverage" NAME="pytest for test_web_app.test_login Coverage Results" MODIFIED="1603525833325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/CS235_FLIX_A2$pytest_in_test_domain_model_py.coverage" NAME="pytest in test_domain_model.py Coverage Results" MODIFIED="1603581177550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/CS235_FLIX_A2$pytest_in_unit.coverage" NAME="pytest in unit Coverage Results" MODIFIED="1603612232777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/CS235_FLIX_A2$CS235.coverage" NAME="CS235 Coverage Results" MODIFIED="1603527814609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
